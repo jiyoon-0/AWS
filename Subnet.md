@@ -1,4 +1,4 @@
-## VPC
+## 
 - Public Subnet
   - Internet GW를 통하여 외부 인터넷 구간과 통신
   - EC2 -> 가상 라우터 -> 라우팅 테이블(IGW) -> 인터넷 구간
