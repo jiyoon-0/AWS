@@ -10,6 +10,8 @@
       - 서버는 클라이언트 인증서를 사용하여 엔드포인트에 연결하려고 시도하는 클라이언트를 인증
       - 하나의 서버 인증서와 클라이언트 인증서 생성
       - ACM에 서버 인증서 업로드 및 CA 지정
+      - 인증서 설정  
+![ACM 설정](https://user-images.githubusercontent.com/79958913/111422094-74f08880-8731-11eb-9831-f933d87e95ae.PNG)  
   2) Client VPN Endpoint 생성
       - Associations에서 VPC, Subnet 설정
       - VPN Security Group 생성 필요
