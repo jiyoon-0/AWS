@@ -1,4 +1,5 @@
 ##AWS Client VPN(SSL VPN)
+![Client AWS](https://user-images.githubusercontent.com/79958913/111418416-0a3c4e80-872b-11eb-8d16-cb744bea01c2.PNG)
 - 배경 : 외부 업체에게 그룹사 VPN 발급 지양, 기존에는 그룹사 SSL VPN -> SGTray로 접속
 - 접속 방식 : AWS Client VPN -> SSH 접속
 - 설정 방법 
