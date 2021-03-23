@@ -21,8 +21,10 @@
   
 ## ELB 종류  
 1) ALB  
-- 
+- ALB Domain은 고정 IP X
+- 내부 ALB는 VPN 통해서 들어오는 내부
 2) NLB  
+- NLB Domain DNS 검색 시 나오는 고정 IP 
 - 라우팅 구성 : TCP, TLS, UDP 등 프로토콜 가능  
 - 특징
 - Target Group 지정 시 인스턴스 또는 IP로 가능  
